@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://cux4hvcry6x75"]
+
+[node name="quiz" type="Node2D"]
+position = Vector2(-9, 19)
+
+[node name="Button4" type="Button" parent="."]
+offset_left = 512.0
+offset_top = 229.0
+offset_right = 628.0
+offset_bottom = 265.0
+metadata/_edit_use_anchors_ = true
+
+[node name="Label" type="Label" parent="."]
+offset_left = 359.0
+offset_top = 99.0
+offset_right = 444.0
+offset_bottom = 185.0
+scale = Vector2(3.61512, 1.21508)
+text = "Test question"
